@@ -1,3 +1,8 @@
+/**
+ * @author Andre Agrippa
+ * Version 0.0.1
+ */
+
 package ca.durhamcollege;
 import java.util.Scanner;
 
@@ -5,11 +10,6 @@ public class Main {
 
     public Main()
     {
-//        Scanner in = new Scanner(System.in);
-//        System.out.print("Enter String:");
-//        String input = in.nextLine();
-//        System.out.println(in);
-
         Person person = new Person("Andre", 40);
         person.saysHello();
 

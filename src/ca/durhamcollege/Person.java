@@ -1,3 +1,8 @@
+/**
+ * @author Andre Agrippa
+ * Version 0.0.1
+ */
+
 package ca.durhamcollege;
 
 public class Person
